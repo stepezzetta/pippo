@@ -1,0 +1,37 @@
+{
+  "name": "pippo", 							
+  "version": "0.0.1",
+  "main": "src/pippo.js", 					
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "karma.conf.js",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    		
+  },
+  "devDependencies": {
+    	
+  },
+  	
+  "authors": [
+    {
+      "name": "stepezzetta",
+      "email": "stepezze@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "" 				
+  },
+  "description": "", 			
+  "keywords": [
+    ""								
+  ],
+  "license": "",
+  "srcPath": "src"
+}
